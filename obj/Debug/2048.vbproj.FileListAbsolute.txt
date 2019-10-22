@@ -1,0 +1,12 @@
+D:\2048\bin\Debug\2048.exe.config
+D:\2048\bin\Debug\2048.exe
+D:\2048\bin\Debug\2048.pdb
+D:\2048\bin\Debug\2048.xml
+D:\2048\obj\Debug\2048.vbprojAssemblyReference.cache
+D:\2048\obj\Debug\_2048.Form1.resources
+D:\2048\obj\Debug\_2048.Resources.resources
+D:\2048\obj\Debug\2048.vbproj.GenerateResource.cache
+D:\2048\obj\Debug\2048.vbproj.CoreCompileInputs.cache
+D:\2048\obj\Debug\2048.exe
+D:\2048\obj\Debug\2048.xml
+D:\2048\obj\Debug\2048.pdb
